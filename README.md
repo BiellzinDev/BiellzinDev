@@ -1,6 +1,6 @@
 # 👩🏻‍💻 BiellzinDev 
 
-**`Desenvolvedor Jr`**
+**`Desenvolvedor Estudante `**
 
 Meu nome é Gabriel Campos e sou um profissional com formação em Tecnologia em Automação Industrial pela FATEC Osasco. Atualmente, estou aprofundando meus conhecimentos na área de tecnologia ao cursar Análise e Desenvolvimento de Sistemas, com foco em programação.
 Tenho grande interesse em atuar na área de desenvolvimento de software e automação, combinando minha experiência em sistemas industriais com minha crescente especialização em programação. Durante minha trajetória acadêmica e profissional, desenvolvi habilidades em HTML, CSS, JavaScript, C, Phyton.
@@ -39,9 +39,6 @@ Gostaria de ter a oportunidade de discutir como minhas habilidades e conheciment
     title="C"
     width="30px" 
     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />        
-/>
-
-
  <img
     align="left" 
     alt="Python" 
