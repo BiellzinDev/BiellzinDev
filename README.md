@@ -40,15 +40,12 @@ Gostaria de ter a oportunidade de discutir como minhas habilidades e conheciment
     width="30px" 
     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />        
 />
-<img 
+
+
+ <img
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="JavaScript" 
+    title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
