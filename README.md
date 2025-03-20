@@ -35,13 +35,10 @@ Gostaria de ter a oportunidade de discutir como minhas habilidades e conheciment
 />
 <img 
     align="left" 
-    alt="C"
-    title="C" 
+    alt="JavaScript" 
+    title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-           
+    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />        
 />
 <img 
     align="left" 
