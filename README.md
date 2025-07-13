@@ -2,10 +2,22 @@
 
 **`Desenvolvedor Estudante `**
 
-Meu nome é Gabriel Campos e sou um profissional com formação em Tecnologia em Automação Industrial pela FATEC Osasco. Atualmente, estou aprofundando meus conhecimentos na área de tecnologia ao cursar Análise e Desenvolvimento de Sistemas, com foco em programação.
-Tenho grande interesse em atuar na área de desenvolvimento de software e automação, combinando minha experiência em sistemas industriais com minha crescente especialização em programação. Durante minha trajetória acadêmica e profissional, desenvolvi habilidades em HTML, CSS, JavaScript, C, Phyton.
-Sou um profissional proativo, com facilidade para trabalhar em equipe e resolver problemas de maneira estratégica. Acredito que minha formação técnica e minha dedicação ao aprendizado contínuo podem agregar valor à  empresa, contribuindo para o desenvolvimento de soluções inovadoras e eficientes.
-Gostaria de ter a oportunidade de discutir como minhas habilidades e conhecimentos podem ser aplicados para atender às necessidades da sua equipe. Estou à disposição para uma conversa e para fornecer mais informações sobre minha experiência e qualificações.
+# 👋 Olá! Eu sou o Gabriel Campos
+
+🎓 **Formação**  
+Tecnólogo em Automação Industrial pela FATEC Osasco  
+🎓 Cursando Análise e Desenvolvimento de Sistemas  
+
+💻 **O que me motiva**  
+Apaixonado por tecnologia, tenho grande interesse em **desenvolvimento de software e automação**, combinando experiência em sistemas industriais com a programação moderna.
+
+🔧 **Minhas habilidades**  
+- **Linguagens:** HTML, CSS, JavaScript, C, Python  
+- **Soft Skills:** Proatividade, comunicação, trabalho em equipe  
+- **Foco:** Resolução estratégica de problemas e aprendizado contínuo  
+
+🚀 **Objetivo**  
+Contribuir para projetos que impactem positivamente pessoas e empresas, criando soluções inovadoras e eficientes.
 
 ### 🤖 Linguagens e Tecnologias
 
